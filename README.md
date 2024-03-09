@@ -1,1 +1,1 @@
-<h1>Hi! Welcome to my repositorie</h1>
+<h1>Hi! Welcome to my repository</h1>
